@@ -14,10 +14,13 @@ public class Main {
 //        List<WeekDayConstants> day = Arrays.asList(WeekDayConstants.values());
 //        day.forEach(System.out::println);
 
-        System.out.println(Gender.getGenderByCode("M"));
-        System.out.println(Gender.getGenderByCode("F"));
-        System.out.println(Gender.getGenderByCode("123s"));
+//        System.out.println(Gender.getGenderByCode("M"));
+//        System.out.println(Gender.getGenderByCode("F"));
+//        System.out.println(Gender.getGenderByCode("123s"));
 
+        System.out.println(Currency.VND);
+        System.out.println(Currency.USD);
+        System.out.println(Currency.EURO);
 
     }
 
